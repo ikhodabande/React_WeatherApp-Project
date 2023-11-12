@@ -146,8 +146,8 @@ body {
   .card {
     width: 90%;
     max-width: 470px;
-    margin: 50px auto 0;
-    
+    margin: 20px auto 0;
+    padding: 30px 35px;
   }
 }
 @media screen and (max-width : 370px) {
@@ -176,8 +176,8 @@ body {
   .card {
     width: 90%;
     max-width: 470px;
-    margin: 50px auto 0;
-    
+    margin: 20px auto 0;
+    padding: 30px 35px;
   }
 
 }
