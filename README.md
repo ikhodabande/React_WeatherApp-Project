@@ -1,4 +1,4 @@
-# Open <a href="https://ikhodabande.github.io/React_WeatherApp-Project">WeatherApp</a>
+# Open <a href="https://ikhodabande.github.io/React_WeatherApp-Project">WeatherApp</a> and Enjoy it!
 
 
 
