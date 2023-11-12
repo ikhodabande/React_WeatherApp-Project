@@ -118,3 +118,43 @@ body {
   font-size: 14px;
   display: none;
 }
+
+
+@media screen and (max-width : 400px) {
+  .col img{
+    width: 1.5rem;
+  }
+  .col p {
+    font-size: 1rem;
+  }
+  .weather h1  {
+    font-size: 4.5rem;
+  }
+  .weather h2  {
+    font-size: 3rem;
+    padding-top: 1rem;
+  }
+
+  .card input {
+    max-width: 16rem;
+  }
+}
+@media screen and (max-width : 370px) {
+  .col img{
+    width: 1.5rem;
+  }
+  .col p {
+    font-size: .9rem;
+  }
+  .weather h1  {
+    font-size: 4.5rem;
+  }
+  .weather h2  {
+    font-size: 3rem;
+    padding-top: 1rem;
+  }
+
+  .card input {
+    max-width: 14rem;
+  }
+}
