@@ -1,4 +1,4 @@
-# <a href="https://ikhodabande.github.io/React_WeatherApp-Project">Open WeatherApp</a>
+# Open <a href="https://ikhodabande.github.io/React_WeatherApp-Project">WeatherApp</a>
 
 
 
