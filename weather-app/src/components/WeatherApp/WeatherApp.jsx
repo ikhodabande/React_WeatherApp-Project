@@ -92,10 +92,10 @@ const WeatherApp = () => {
               <div className="search">
                 <button onClick={()=>{search()}}><img src={search_icon} alt=""/></button>
                    </div>
-                  <div className="error">
+           </div>
+           <div className="error">
                     <p>Invalid city name you enterd, please try again.</p>
                     </div>
-           </div>
     <div className="weather">
       <img src={wicon} className="weather-icone" alt=""/>
       <h1 className="temprature">22°c</h1>
